@@ -1,0 +1,45 @@
+body {
+    background-image:url(animalgrass.png);
+}
+
+.profilepic {
+	float: left;
+}
+
+.blackonwhite {
+	background: sandyBrown;
+	color:yellow;
+	font-size:18px;
+}
+.whiteonblack {
+	background: peru;
+	color: yellow;
+	font-size:18px;
+}
+
+.profilepic {
+	height: 80px;
+}
+
+.tweet {
+	height:100px;
+}
+
+.profilepic {
+	margin-right: 10px;
+	width: 80px;
+}
+
+h1 {
+	color:yellow;
+	font-size:64;
+	background:SaddleBrown;
+	width:50%;
+}
+
+#tweets {
+	background: sienna;
+	width: 500px;
+	padding: 23px;
+	height: 100%;
+}
